@@ -1,7 +1,7 @@
 ---
 name: feature_request
 about: Suggest a new feature for this project
-title: ''
+title: "[FEATURE]"
 labels: code
 assignees: ko-tarou
 
